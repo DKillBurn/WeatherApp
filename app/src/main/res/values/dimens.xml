@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dcp_progressBar_size">50dp</dimen>
+    <dimen name="dcp_progressBar_marginEnd">10dp</dimen>
+    <dimen name="dcp_llMain_padding">10dp</dimen>
+    <dimen name="dcp_tvPleaseWait_textSize">18sp</dimen>
+
+    <dimen name="wma_llMain_padding">16dp</dimen>
+    <dimen name="wma_cvContent_marginStartEnd">5dp</dimen>
+    <dimen name="wma_cvContent_marginTop">16dp</dimen>
+    <dimen name="wma_cvContent_cornerRadius">8dp</dimen>
+    <dimen name="wma_cvContent_elevation">5dp</dimen>
+    <dimen name="wma_cvContent_padding">10dp</dimen>
+    <dimen name="wma_identification_size">50dp</dimen>
+    <dimen name="wma_identification_marginEnd">10dp</dimen>
+    <dimen name="wma_label_textSize">18sp</dimen>
+    <dimen name="wma_value_textSize">16sp</dimen>
+    <dimen name="wma_sunset_marginStart">10dp</dimen>
+    <dimen name="wma_sunrise_marginTop">18dp</dimen>
+    <dimen name="wma_divider_height">1dp</dimen>
+    <dimen name="wma_divider_margin">16dp</dimen>
+</resources>
